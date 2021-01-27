@@ -6,4 +6,4 @@ Hello guys, I make my own icon set of OpenCanopy. Currently, I've made 1 style h
 ![Image of Fluent Icon Style](fluent-icon-style/ss/27103518.png)
 
 ## Note:
-Make sure, you're using same version of OpenCanopy as you Opencore
+Make sure, you're using same version of OpenCanopy as your Opencore
